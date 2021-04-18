@@ -1,0 +1,7 @@
+{
+  "name": "LakeViewApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
