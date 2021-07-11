@@ -1,0 +1,58 @@
+{
+    "stalls": [
+        {
+            "name": "Children Toys",
+            "description": "abc",
+            "status": "Active"
+        },
+        {
+            "name": "Burger Point",
+            "description": "abc",
+            "status": "Active"
+        },
+        {
+            "name": "Jewl Shop",
+            "description": "abc",
+            "status": "Active"
+        },
+        {
+            "name": "Food Point",
+            "description": "abc",
+            "status": "Active"
+        },
+        {
+            "name": "Children Toys",
+            "description": "abc",
+            "status": "Active"
+        },
+        {
+            "name": "Games",
+            "description": "abc",
+            "status": "Active"
+        },
+
+        {
+            "name": "Photo Booth",
+            "description": "abc",
+            "status": "Inactive"
+        },
+        {
+            "name": "Mobile Care",
+            "description": "abc",
+            "status": "Active"
+        },
+        {
+            "name": "Children Toys",
+            "description": "abc",
+            "status": "Active"
+        },
+        {
+            "name": "Children Toys",
+            "description": "abc",
+            "status": "Active"
+        }
+
+        
+
+    ]
+}
